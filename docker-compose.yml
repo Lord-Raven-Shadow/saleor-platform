@@ -39,7 +39,7 @@ services:
       context: ./react-storefront
       dockerfile: ./Dockerfile.dev
     ports:
-      - 3001:3000
+      - 3000:3000
     restart: unless-stopped
     networks:
       - saleor-backend-tier
