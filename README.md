@@ -12,7 +12,8 @@ All Saleor services started from a single repository
 To clone the repository, run the following command
 
 ```
-git clone https://github.com/saleor/saleor-platform.git --recursive --jobs 3
+git clone https://github.com/Lord-Raven-Shadow/saleor-platform.git --recursive --jobs 3
+
 ```
 
 ## How to run it?
